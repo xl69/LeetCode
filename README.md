@@ -1,14 +1,10 @@
 #### [BFS](https://github.com/xl69/LeetCode/tree/main/BFS)
 
-[207.Course-Schedule](https://github.com/xl69/LeetCode/tree/main/BFS/207.Course-Schedule)
-
-[210.Course-Schedule-II](https://github.com/xl69/LeetCode/tree/main/BFS/210.Course-Schedule-II)
-
-[1136.Parallel-Courses](https://github.com/xl69/LeetCode/tree/main/BFS/1136.Parallel-Courses)
-
-[1462.Course-Schedule-IV](https://github.com/xl69/LeetCode/tree/main/BFS/1462.Course-Schedule-IV)
-
-[2050.Parallel-Courses-III](https://github.com/xl69/LeetCode/tree/main/BFS/2050.Parallel-Courses-III)
+[207.Course-Schedule](https://github.com/xl69/LeetCode/tree/main/BFS/207.Course-Schedule)  
+[210.Course-Schedule-II](https://github.com/xl69/LeetCode/tree/main/BFS/210.Course-Schedule-II)  
+[1136.Parallel-Courses](https://github.com/xl69/LeetCode/tree/main/BFS/1136.Parallel-Courses)  
+[1462.Course-Schedule-IV](https://github.com/xl69/LeetCode/tree/main/BFS/1462.Course-Schedule-IV)  
+[2050.Parallel-Courses-III](https://github.com/xl69/LeetCode/tree/main/BFS/2050.Parallel-Courses-III)  
 
 #### [Union_Find](https://github.com/xl69/LeetCode/tree/main/Union_Find)
 
