@@ -9,17 +9,12 @@
 
 #### [Trie](https://github.com/xl69/LeetCode/tree/main/Trie)
 
-[140. Word Break II](https://github.com/xl69/LeetCode/tree/main/Trie/140. Word Break II)
-
-[208.Implement-Trie-(Prefix-Tree)](https://github.com/xl69/LeetCode/tree/main/Trie/208.Implement-Trie-(Prefix-Tree))
-
-[211.Design-Add-and-Search-Words-Data-Structure](https://github.com/xl69/LeetCode/tree/main/Trie/211.Design-Add-and-Search-Words-Data-Structure)
-
-[472.Concatenated-Words](https://github.com/xl69/LeetCode/tree/main/Trie/472.Concatenated-Words)
-
-[648.Replace-Words](https://github.com/xl69/LeetCode/tree/main/Trie/648.Replace-Words)
-
-[1804.Implement-Trie-II-(Prefix-Tree)](https://github.com/xl69/LeetCode/tree/main/Trie/1804.Implement-Trie-II-(Prefix-Tree))
+[140. Word Break II](https://github.com/xl69/LeetCode/tree/main/Trie/140. Word Break II)  
+[208.Implement-Trie-(Prefix-Tree)](https://github.com/xl69/LeetCode/tree/main/Trie/208.Implement-Trie-(Prefix-Tree))  
+[211.Design-Add-and-Search-Words-Data-Structure](https://github.com/xl69/LeetCode/tree/main/Trie/211.Design-Add-and-Search-Words-Data-Structure)  
+[472.Concatenated-Words](https://github.com/xl69/LeetCode/tree/main/Trie/472.Concatenated-Words)  
+[648.Replace-Words](https://github.com/xl69/LeetCode/tree/main/Trie/648.Replace-Words)  
+[1804.Implement-Trie-II-(Prefix-Tree)](https://github.com/xl69/LeetCode/tree/main/Trie/1804.Implement-Trie-II-(Prefix-Tree))  
 
 #### [Union_Find](https://github.com/xl69/LeetCode/tree/main/Union_Find)
 
