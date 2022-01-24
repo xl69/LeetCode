@@ -22,6 +22,5 @@
 [924.Minimize-Malware-Spread](https://github.com/xl69/LeetCode/tree/main/Union_Find/924.Minimize-Malware-Spread)
 
 #### [Templates](https://github.com/xl69/LeetCode/tree/main/Templates)
-[Union_Find](https://github.com/xl69/LeetCode/tree/main/Templates/Union_Find)
-
+[Union_Find](https://github.com/xl69/LeetCode/tree/main/Templates/Union_Find) 
 [Trie](https://github.com/xl69/LeetCode/tree/main/Templates/Trie)
