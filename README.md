@@ -7,6 +7,10 @@
 [1462.Course-Schedule-IV](https://github.com/xl69/LeetCode/tree/main/BFS/1462.Course-Schedule-IV)  
 [2050.Parallel-Courses-III](https://github.com/xl69/LeetCode/tree/main/BFS/2050.Parallel-Courses-III)  
 
+#### Trie
+
+
+
 #### [Union_Find](https://github.com/xl69/LeetCode/tree/main/Union_Find)
 
 [547.Number-of-Provinces](https://github.com/xl69/LeetCode/tree/main/Union_Find/547.Number-of-Provinces)  
