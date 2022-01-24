@@ -7,9 +7,9 @@
 [1462.Course-Schedule-IV](https://github.com/xl69/LeetCode/tree/main/BFS/1462.Course-Schedule-IV)  
 [2050.Parallel-Courses-III](https://github.com/xl69/LeetCode/tree/main/BFS/2050.Parallel-Courses-III)  
 
-#### Trie
+#### [Trie](https://github.com/xl69/LeetCode/tree/main/Trie)
 
-
+[208.Implement-Trie-(Prefix-Tree)](https://github.com/xl69/LeetCode/tree/main/Trie/208.Implement-Trie-(Prefix-Tree))
 
 #### [Union_Find](https://github.com/xl69/LeetCode/tree/main/Union_Find)
 
