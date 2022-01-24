@@ -9,7 +9,7 @@
 
 #### [Trie](https://github.com/xl69/LeetCode/tree/main/Trie)
 
-[140. Word Break II](https://github.com/xl69/LeetCode/tree/main/Trie/140. Word Break II)  
+[140.Word-Break-II](https://github.com/xl69/LeetCode/tree/main/Trie/140.Word-Break-II)  
 [208.Implement-Trie-(Prefix-Tree)](https://github.com/xl69/LeetCode/tree/main/Trie/208.Implement-Trie-(Prefix-Tree))  
 [211.Design-Add-and-Search-Words-Data-Structure](https://github.com/xl69/LeetCode/tree/main/Trie/211.Design-Add-and-Search-Words-Data-Structure)  
 [472.Concatenated-Words](https://github.com/xl69/LeetCode/tree/main/Trie/472.Concatenated-Words)  
