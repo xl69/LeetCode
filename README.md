@@ -13,15 +13,10 @@
 [208.Implement-Trie-(Prefix-Tree)](https://github.com/xl69/LeetCode/tree/main/Trie/208.Implement-Trie-(Prefix-Tree))  
 [211.Design-Add-and-Search-Words-Data-Structure](https://github.com/xl69/LeetCode/tree/main/Trie/211.Design-Add-and-Search-Words-Data-Structure)  
 [472.Concatenated-Words](https://github.com/xl69/LeetCode/tree/main/Trie/472.Concatenated-Words)  
-
-[588.Design-In-Memory-File-System](https://github.com/xl69/LeetCode/tree/main/Trie/588.Design-In-Memory-File-System)
-
+[588.Design-In-Memory-File-System](https://github.com/xl69/LeetCode/tree/main/Trie/588.Design-In-Memory-File-System)  
 [648.Replace-Words](https://github.com/xl69/LeetCode/tree/main/Trie/648.Replace-Words)  
-
-[676.Implement-Magic-Dictionary](https://github.com/xl69/LeetCode/tree/main/Trie/676.Implement-Magic-Dictionary)
-
-[677.Map-Sum-Pairs](https://github.com/xl69/LeetCode/tree/main/Trie/677.Map-Sum-Pairs)
-
+[676.Implement-Magic-Dictionary](https://github.com/xl69/LeetCode/tree/main/Trie/676.Implement-Magic-Dictionary)  
+[677.Map-Sum-Pairs](https://github.com/xl69/LeetCode/tree/main/Trie/677.Map-Sum-Pairs)  
 [1804.Implement-Trie-II-(Prefix-Tree)](https://github.com/xl69/LeetCode/tree/main/Trie/1804.Implement-Trie-II-(Prefix-Tree))  
 
 #### [Union_Find](https://github.com/xl69/LeetCode/tree/main/Union_Find)
