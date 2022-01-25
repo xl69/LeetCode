@@ -17,6 +17,9 @@
 [648.Replace-Words](https://github.com/xl69/LeetCode/tree/main/Trie/648.Replace-Words)  
 [676.Implement-Magic-Dictionary](https://github.com/xl69/LeetCode/tree/main/Trie/676.Implement-Magic-Dictionary)  
 [677.Map-Sum-Pairs](https://github.com/xl69/LeetCode/tree/main/Trie/677.Map-Sum-Pairs)  
+
+[745.Prefix-and-Suffix-Search](https://github.com/xl69/LeetCode/tree/main/Trie/745.Prefix-and-Suffix-Search)
+
 [1804.Implement-Trie-II-(Prefix-Tree)](https://github.com/xl69/LeetCode/tree/main/Trie/1804.Implement-Trie-II-(Prefix-Tree))  
 
 #### [Union_Find](https://github.com/xl69/LeetCode/tree/main/Union_Find)
