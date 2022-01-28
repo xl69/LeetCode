@@ -9,25 +9,19 @@
 
 #### [Trie](https://github.com/xl69/LeetCode/tree/main/Trie)
 
-[139.Word-Break](https://github.com/xl69/LeetCode/tree/main/Trie/139.Word-Break)
-
+[139.Word-Break](https://github.com/xl69/LeetCode/tree/main/Trie/139.Word-Break)  
 [140.Word-Break-II](https://github.com/xl69/LeetCode/tree/main/Trie/140.Word-Break-II)  
 [208.Implement-Trie-(Prefix-Tree)](https://github.com/xl69/LeetCode/tree/main/Trie/208.Implement-Trie-(Prefix-Tree))  
 [211.Design-Add-and-Search-Words-Data-Structure](https://github.com/xl69/LeetCode/tree/main/Trie/211.Design-Add-and-Search-Words-Data-Structure)  
-
-[421.Maximum-XOR-of-Two-Numbers-in-an-Array](https://github.com/xl69/LeetCode/tree/main/Trie/421.Maximum-XOR-of-Two-Numbers-in-an-Array)
-
+[421.Maximum-XOR-of-Two-Numbers-in-an-Array](https://github.com/xl69/LeetCode/tree/main/Trie/421.Maximum-XOR-of-Two-Numbers-in-an-Array)  
 [472.Concatenated-Words](https://github.com/xl69/LeetCode/tree/main/Trie/472.Concatenated-Words)  
 [588.Design-In-Memory-File-System](https://github.com/xl69/LeetCode/tree/main/Trie/588.Design-In-Memory-File-System)  
 [648.Replace-Words](https://github.com/xl69/LeetCode/tree/main/Trie/648.Replace-Words)  
 [676.Implement-Magic-Dictionary](https://github.com/xl69/LeetCode/tree/main/Trie/676.Implement-Magic-Dictionary)  
 [677.Map-Sum-Pairs](https://github.com/xl69/LeetCode/tree/main/Trie/677.Map-Sum-Pairs)  
 [745.Prefix-and-Suffix-Search](https://github.com/xl69/LeetCode/tree/main/Trie/745.Prefix-and-Suffix-Search)  
-
-[1268.Search-Suggestions-System](https://github.com/xl69/LeetCode/tree/main/Trie/1268.Search-Suggestions-System)
-
+[1268.Search-Suggestions-System](https://github.com/xl69/LeetCode/tree/main/Trie/1268.Search-Suggestions-System)  
 [1804.Implement-Trie-II-(Prefix-Tree)](https://github.com/xl69/LeetCode/tree/main/Trie/1804.Implement-Trie-II-(Prefix-Tree))  
-
 [1858.Longest-Word-With-All-Prefixes](https://github.com/xl69/LeetCode/tree/main/Trie/1858.Longest-Word-With-All-Prefixes)
 
 #### [Union_Find](https://github.com/xl69/LeetCode/tree/main/Union_Find)
