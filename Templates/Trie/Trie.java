@@ -30,5 +30,6 @@ class TrieNode {
     boolean isWord;
     public TrieNode() {
         children = new TrieNode[26];
+        isWord = false;
     }
 }
