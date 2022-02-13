@@ -31,7 +31,7 @@
 [421.Maximum-XOR-of-Two-Numbers-in-an-Array](https://github.com/xl69/LeetCode/tree/main/Trie/421.Maximum-XOR-of-Two-Numbers-in-an-Array)  
 [1707.Maximum-XOR-With-an-Element-From-Array](https://github.com/xl69/LeetCode/tree/main/Trie/1707.Maximum-XOR-With-an-Element-From-Array)
 
-#### [Union_Find](https://github.com/xl69/LeetCode/tree/main/Union_Find)
+#### [Union Find](https://github.com/xl69/LeetCode/tree/main/Union_Find)
 
 [547.Number-of-Provinces](https://github.com/xl69/LeetCode/tree/main/Union_Find/547.Number-of-Provinces)  
 [765.Couples-Holding-Hands](https://github.com/xl69/LeetCode/tree/main/Union_Find/765.Couples-Holding-Hands)  
