@@ -3,8 +3,8 @@ class DSU {
     public DSU(int n) {
         parent = new int[n];
         size = new int[n];
-        Arrays.fill(size, 1);
         for (int i = 0; i < n; i++) parent[i] = i;
+        Arrays.fill(size, 1);
     }
     public int find(int x) {
         if (x != parent[x]) {
